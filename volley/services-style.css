@@ -1,0 +1,126 @@
+/*Starting conditions*/
+
+body
+{
+	margin-top:0px;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	background-color:#F0F0F0;
+}
+
+/*Navigation Bar*/
+
+.logo a
+{
+	color:black;
+}
+
+.navigation-bar
+{
+	margin-bottom:0px;
+	text-align:center;
+	border:1px solid black;
+}
+.navigation-bar ul
+{	
+	margin-top:0px;
+	margin-bottom:0px;
+	height:40px;
+	background-color:#111111 ;
+	
+	padding-top:25px;
+	
+}
+.navigation-bar li
+{
+	display:inline;
+	padding-left:40px;
+	padding-right:40px;
+	
+}
+
+.navigation-bar a 
+{	
+	font-family:'Oswald', sans-serif;
+	font-size:12px;
+	text-transform:uppercase;
+	text-decoration:none;
+	color:#FFFFFF;
+
+}
+
+/*Services styling*/
+
+.services
+{
+	padding-left:350px;
+	padding-right:350px;
+}
+
+.services h1 
+{
+	padding-top:20px;
+	font-size:32px;
+	text-transform:uppercase;
+	text-align:center;
+	font-family:'Oswald',sans-serif;
+	padding-right:500px;
+	border-bottom:3px solid black;
+}
+
+.services h2
+{
+	padding-top:20px;
+	text-transform:uppercase;
+	font-size:18px;
+	text-align:center;
+	font-family:'Oswald',sans-serif;
+	/*padding-right:500px;*/
+}
+
+.services p
+{
+	font-size:13px;
+	text-align:center;
+	font-family:'Oswald',sans-serif;
+	
+}
+
+/*Table for benefits*/
+
+table 
+{
+	margin-top:50px;
+	margin-left:380px;
+}
+
+table h3 
+{
+ text-align:center;
+ padding-left:0px;
+ padding-right:0px;
+ font-size:16px;
+ font-family:'Oswald',sans-serif;
+ 
+}
+
+table p
+{
+ font-size:13px;
+ font-family:'Oswald',sans-serif;
+ font-weight:none;
+}
+
+/* Lower bar */
+
+/*.lower
+{	
+	
+	margin-top:92px;
+	padding-top:60px;
+	
+	background-color:#111111;
+	
+}
+*/
